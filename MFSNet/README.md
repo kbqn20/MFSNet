@@ -1,3 +1,1 @@
-# Reverse_Disstilation
-
-### Unofficial Implementation of "Anomaly Detection via Reverse Distillation from One-Class Embedding, CVPR2022" 
+Targeted-mask Reverse Knowledge Distillation and Feature Selection Strategy for Anomaly Detection
